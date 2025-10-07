@@ -1,5 +1,4 @@
 GET http://localhost:5019
 ###
-GET http://localhost:5019/hello
-###
-POST http://localhost:5019/hello
+GET http://localhost:5019/products
+
